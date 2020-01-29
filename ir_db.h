@@ -1,7 +1,10 @@
 /**
  * Database for IR RAW CODE of various devices
  *
+ * Example: 
+ *   Arduino: irsend.sendRaw(boxUnmute, 35, 38); 38kHz
  */
+
 #ifndef IR_DB_H
 #define IR_DB_H
 
